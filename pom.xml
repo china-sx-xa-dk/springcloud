@@ -29,7 +29,7 @@
         <!--spirngBoot-->
         <spring-boot-dependencies.version>2.1.4.RELEASE</spring-boot-dependencies.version>
         <!--mysql驱动包-->
-        <mysql-connector-java.version>8.0.18</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <!--mybatis启动器-->
         <mybatis-spring-boot-starter.version>2.1.1</mybatis-spring-boot-starter.version>
         <!--阿里巴巴数据库连接池-->
